@@ -1,0 +1,11 @@
+title: Sayak's Portfolio
+author: Sayak
+email: sayakbera24@iitk.ac.in
+description: >-
+  Research Scholar at IIT Kanpur | Earth Imaging & SAR | Machine Learning | Photographer & Musician
+theme: minima
+header_pages:
+  - research.md
+  - teaching.md
+  - photography.md
+  - music.md
