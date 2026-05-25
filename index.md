@@ -4,7 +4,7 @@ layout: home
 <link rel="stylesheet" href="https://cloudflare.com">
 <div style="text-align: center; max-width: 800px; margin: 0 auto;">
   
-  <img src="/profile.jpg" alt="Sayak" style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="profile.jpg" alt="Sayak" style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
   <p>Welcome! I am a Research Scholar at IIT Kanpur specializing in Space Borne Computation: LEO satellite constellations & Earth Imaging based on Synthetic Aperture Radar (SAR).</p>
 
@@ -18,7 +18,7 @@ layout: home
   
   <h3 style="margin-top: 0;">Get In Touch</h3>
   
-  <p style="margin: 5px 0;"><strong>Office:</strong> KD-304C, H.R. Khadim Diwan Building, Department of Computer Science & Engineering,<br>IIT Kanpur, Kanpur, UP 208016, India</p>
+  <p style="margin: 5px 0;"><strong>Office:</strong> <br> Department of Computer Science & Engineering,<br>IIT Kanpur, Kanpur, UP 208016, India</p>
   
   <p style="margin: 5px 0 20px 0;"><strong>Email:</strong> <br> <a href="mailto:sayakbera24@iitk.ac.in" style="text-decoration: none;">sayakbera24@iitk.ac.in</a> <br> <a href="mailto:sayakbera24@cse.iitk.ac.in" style="text-decoration: none;">sayakbera24@cse.iitk.ac.in</a></p>
   
