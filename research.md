@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Earth Imaging & XAI
+title: Earth Imaging & Distributed Computation
 permalink: /research/
 ---
 ### Distributed ML Training
