@@ -41,16 +41,14 @@ permalink: /photography/
   <h2 class="gallery-title">Avian Photography</h2>
   
   <div class="gallery-grid">
-    <img src="assets/bird1.jpg" alt="Bird Photo 1" class="gallery-img">
-    <img src="assets/bird2.jpeg" alt="Bird Photo 2" class="gallery-img">
-    <img src="assets/bird3.jpeg" alt="Bird Photo 3" class="gallery-img">
-    <img src="assets/bird4.jpeg" alt="Bird Photo 4" class="gallery-img">
-    <img src="assets/bird5.jpeg" alt="Bird Photo 5" class="gallery-img">
+    <img src="/assets/bird1.jpg" alt="Bird Photo 1" class="gallery-img">
+    <img src="/assets/bird2.jpeg" alt="Bird Photo 2" class="gallery-img">
+    <img src="/assets/bird3.jpeg" alt="Bird Photo 3" class="gallery-img">
     </div>
 
   <details class="species-checklist">
     <summary>📋 View Complete Species Checklist</summary>
-    <ul class="species-list">
+    <ol class="species-list">
       <li>Spotted Owlet <em>(Athene brama)</em></li>
       <li>Indian Roller <em>(Coracias benghalensis)</em></li>
       <li>White-throated Kingfisher <em>(Halcyon smyrnensis)</em></li>
@@ -58,26 +56,24 @@ permalink: /photography/
       <li>Asian Green Bee-eater <em>(Merops orientalis)</em></li>
       <li>Coppersmith Barbet <em>(Psilopogon haemacephalus)</em></li>
       <li>Rufous Treepie <em>(Dendrocitta vagabunda)</em></li>
-      </ul>
+      </ol>
   </details>
 </div>
 
 <div class="gallery-section">
   <h2 class="gallery-title">IIT Kanpur Campus</h2>
   <div class="gallery-grid">
-    <img src="assets/iitk1.jpeg" alt="IIT Kanpur Campus Photo 1" class="gallery-img">
-    <img src="assets/iitk2.jpeg" alt="IIT Kanpur Campus Photo 2" class="gallery-img">
-    <img src="assets/iitk3.jpeg" alt="IIT Kanpur Campus Photo 3" class="gallery-img">
-    <img src="assets/iitk4.jpeg" alt="IIT Kanpur Campus Photo 4" class="gallery-img">
+    <img src="/assets/iitk1.jpeg" alt="IIT Kanpur Campus Photo 1" class="gallery-img">
+    <img src="/assets/iitk2.jpeg" alt="IIT Kanpur Campus Photo 2" class="gallery-img">
+    <img src="/assets/iitk3.jpeg" alt="IIT Kanpur Campus Photo 3" class="gallery-img">
   </div>
 </div>
 
 <div class="gallery-section">
   <h2 class="gallery-title">Ravindra Sarovar Kolkata</h2>
   <div class="gallery-grid">
-    <img src="assets/rs1.jpeg" alt="Ravindra Sarovar Kolkata Photo 1" class="gallery-img">
-    <img src="assets/rs2.jpeg" alt="Ravindra Sarovar Kolkata Photo 2" class="gallery-img">
-    <img src="assets/rs3.jpeg" alt="Ravindra Sarovar Kolkata Photo 3" class="gallery-img">
-    <img src="assets/rs4.jpeg" alt="Ravindra Sarovar Kolkata Photo 4" class="gallery-img">
+    <img src="/assets/rs1.jpeg" alt="Ravindra Sarovar Kolkata Photo 1" class="gallery-img">
+    <img src="/assets/rs2.jpeg" alt="Ravindra Sarovar Kolkata Photo 2" class="gallery-img">
+    <img src="/assets/rs3.jpeg" alt="Ravindra Sarovar Kolkata Photo 3" class="gallery-img">
   </div>
 </div>
