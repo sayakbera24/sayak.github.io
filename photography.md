@@ -41,10 +41,10 @@ permalink: /photography/
   <h2 class="gallery-title">Avian Photography</h2>
   
   <div class="gallery-grid">
-    <img src="/assets/bird1.jpg" alt="Bird Photo 1" class="gallery-img">
-    <img src="/assets/bird2.jpg" alt="Bird Photo 2" class="gallery-img">
-    <img src="/assets/bird3.jpg" alt="Bird Photo 3" class="gallery-img">
-    <img src="/assets/bird4.jpg" alt="Bird Photo 4" class="gallery-img">
+    <img src="assets/bird1.jpg" alt="Bird Photo 1" class="gallery-img">
+    <img src="assets/bird2.jpg" alt="Bird Photo 2" class="gallery-img">
+    <img src="assets/bird3.jpg" alt="Bird Photo 3" class="gallery-img">
+    <img src="assets/bird4.jpg" alt="Bird Photo 4" class="gallery-img">
     </div>
 
   <details class="species-checklist">
@@ -64,19 +64,19 @@ permalink: /photography/
 <div class="gallery-section">
   <h2 class="gallery-title">IIT Kanpur Campus</h2>
   <div class="gallery-grid">
-    <img src="/assets/iitk1.jpg" alt="IIT Kanpur Campus Photo 1" class="gallery-img">
-    <img src="/assets/iitk2.jpg" alt="IIT Kanpur Campus Photo 2" class="gallery-img">
-    <img src="/assets/iitk3.jpg" alt="IIT Kanpur Campus Photo 3" class="gallery-img">
-    <img src="/assets/iitk4.jpg" alt="IIT Kanpur Campus Photo 4" class="gallery-img">
+    <img src="assets/iitk1.jpg" alt="IIT Kanpur Campus Photo 1" class="gallery-img">
+    <img src="assets/iitk2.jpg" alt="IIT Kanpur Campus Photo 2" class="gallery-img">
+    <img src="assets/iitk3.jpg" alt="IIT Kanpur Campus Photo 3" class="gallery-img">
+    <img src="assets/iitk4.jpg" alt="IIT Kanpur Campus Photo 4" class="gallery-img">
   </div>
 </div>
 
 <div class="gallery-section">
   <h2 class="gallery-title">Ravindra Sarovar Kolkata</h2>
   <div class="gallery-grid">
-    <img src="/assets/rs1.jpg" alt="Ravindra Sarovar Kolkata Photo 1" class="gallery-img">
-    <img src="/assets/rs2.jpg" alt="Ravindra Sarovar Kolkata Photo 2" class="gallery-img">
-    <img src="/assets/rs3.jpg" alt="Ravindra Sarovar Kolkata Photo 3" class="gallery-img">
-    <img src="/assets/rs4.jpg" alt="Ravindra Sarovar Kolkata Photo 4" class="gallery-img">
+    <img src="assets/rs1.jpg" alt="Ravindra Sarovar Kolkata Photo 1" class="gallery-img">
+    <img src="assets/rs2.jpg" alt="Ravindra Sarovar Kolkata Photo 2" class="gallery-img">
+    <img src="assets/rs3.jpg" alt="Ravindra Sarovar Kolkata Photo 3" class="gallery-img">
+    <img src="assets/rs4.jpg" alt="Ravindra Sarovar Kolkata Photo 4" class="gallery-img">
   </div>
 </div>
