@@ -1,0 +1,39 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      
+      <!-- Column 1: Name, Emails, and Addresses -->
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name" style="font-weight: bold; margin-bottom: 5px;">{{ site.author | escape }}</li>
+          <li><a class="u-email" href="mailto:sayakbera24@iitk.ac.in">sayakbera24@iitk.ac.in</a></li>
+          <li><a class="u-email" href="mailto:sayakbera24@cse.iitk.ac.in">sayakbera24@cse.iitk.ac.in</a></li>
+          
+          <li style="margin-top: 15px; font-size: 0.9em; color: #666;">
+            <strong>📍</strong> IIT Kanpur, India
+          </li>
+          <li style="font-size: 0.9em; color: #666;">
+            <strong>🏠</strong> Kolkata, India
+          </li>
+        </ul>
+      </div>
+
+      <!-- Column 2: Empty space (Maintains the layout structure) -->
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {%- include social.html -%}
+        </ul>
+      </div>
+
+      <!-- Column 3: The bio description from your config file -->
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+      
+    </div>
+  </div>
+</footer>
