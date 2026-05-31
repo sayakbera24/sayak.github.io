@@ -83,7 +83,7 @@ permalink: /activity/
   <div>
     <div class="video-wrapper">
       <!-- Replace VIDEO_ID_1 with your actual YouTube Video ID -->
-      <iframe src="https://youtu.be/Ye-v8_nn4j0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/Ye-v8_nn4j0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="video-caption">Saraswati Vandana</div>
   </div>
@@ -91,7 +91,7 @@ permalink: /activity/
   <div>
     <div class="video-wrapper">
       <!-- Replace VIDEO_ID_2 with your actual YouTube Video ID -->
-      <iframe src="https://youtu.be/O2K0ptoYpuc?si=Cg90E_5q6m9wvqUv" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="[https://www.youtube.com/embed/O2K0ptoYpuc?si=Cg90E_5q6m9wvqUv" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="video-caption">Tabla Performance</div>
   </div>
