@@ -6,7 +6,9 @@ layout: home
   
   <img src="profile.jpg" alt="Sayak" style="width: 400px; height: 400px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 20px auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-  <p>Namaskar! This is <strong>Sayak Bera</strong>. <br> I am a PhD Research Scholar at <a href="https://www.cse.iitk.ac.in/index.html" style="text-decoration: none;">Computer Science & Engineering Department</a> of <a href="https://www.iitk.ac.in" style="text-decoration: none;">IIT Kanpur</a> specializing in Space Borne Computation: Distributed ML Model Training & Earth Imaging based on Synthetic Aperture Radar (SAR). I am working under the supervision of Prof. <a href="https://www.cse.iitk.ac.in/users/amitangshu/" style="text-decoration: none;">Amitangshu Pal</a>. </p>
+  <p><h3>Namaskar! I am <strong>Sayak Bera</strong>.</h3></p>
+  
+  <p>I am a PhD Research Scholar at <a href="https://www.cse.iitk.ac.in/index.html" style="text-decoration: none;">Computer Science & Engineering Department</a> of <a href="https://www.iitk.ac.in" style="text-decoration: none;">IIT Kanpur</a> specializing in Space Borne Computation: Distributed ML Model Training & Earth Imaging based on Synthetic Aperture Radar (SAR). I am working under the supervision of Prof. <a href="https://www.cse.iitk.ac.in/users/amitangshu/" style="text-decoration: none;">Amitangshu Pal</a>. </p>
 
   <p>My technical focus lies in deep learning and space borne computation, but this space is designed to capture all aspects of my work—from multi-GPU model training in the lab to the rhythms of Hindustani Classical music and the quiet moments captured through my camera lens.</p>
 
