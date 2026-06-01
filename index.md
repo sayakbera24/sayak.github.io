@@ -23,8 +23,8 @@ layout: home
   /* Hero Section */
   .hero-container { display: flex; gap: 40px; margin-bottom: 60px; flex-wrap: wrap; }
   .hero-left { flex: 0 0 300px; display: flex; flex-direction: column; }
-  .hero-img { width: 300px; height: 400px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 15px; }
-  .resume-btn { text-align: center; width: 100%; padding: 12px 0; background-color: #0A66C2; color: white !important; text-decoration: none; border-radius: 6px; font-weight: bold; transition: all 0.2s; display: inline-block; box-sizing: border-box; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  .hero-img { width: 300px; height: 400px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-bottom: 15px; border: 5px solid #138808; }
+  .resume-btn { text-align: center; width: 100%; padding: 12px 0; background-color: #FF9933; color: white !important; text-decoration: none; border-radius: 6px; font-weight: bold; transition: all 0.2s; display: inline-block; box-sizing: border-box; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
   .resume-btn:hover { transform: translateY(-2px); box-shadow: 0 4px 10px rgba(0,0,0,0.2); }
   
   /* By using flex-direction: column and space-between, the text perfectly aligns with the top and bottom of the left column */
