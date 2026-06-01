@@ -34,6 +34,10 @@ layout: home
   .list-container { padding-left: 20px; line-height: 1.8; margin-bottom: 40px; }
   .list-container li { margin-bottom: 12px; }
   .pub-title { font-weight: bold; }
+  /* Center the photo and button on mobile screens */
+  @media (max-width: 768px) {
+    .hero-left { margin: 0 auto; }
+  }
 </style>
 
 <!-- THEME TOGGLE SCRIPT & BUTTON -->
